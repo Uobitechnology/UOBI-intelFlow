@@ -1,0 +1,3 @@
+requests
+beautifulsoup4   # optional: better parsing for search / dark-web results
+pysocks          # optional: needed only for Tor (.onion) access
